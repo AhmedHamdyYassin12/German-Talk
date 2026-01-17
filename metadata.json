@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DeutschTalk - Random German Audio Practice",
+  "description": "A high-fidelity platform for German learners to practice their speaking skills through 10-minute random audio calls with an AI-driven language partner. No personal data stored.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
